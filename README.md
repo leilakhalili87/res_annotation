@@ -1,1 +1,1 @@
-# res_annotation
+# Response type annotation on question‑response pairs
